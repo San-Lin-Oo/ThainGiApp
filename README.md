@@ -1,0 +1,2 @@
+# ThainGiApp
+Rice Online Selling
